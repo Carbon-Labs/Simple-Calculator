@@ -26,7 +26,6 @@ double calculate(std::string mathsOperator, int x, int y)
 int main()
 {
 	using namespace std;
-	cout << "Carbon-Labs" << endl;
 	cout << "Hello! What is you name?" << endl;
 	cout << "Name: ";
 	string name;
